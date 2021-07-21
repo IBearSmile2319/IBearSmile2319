@@ -12,7 +12,7 @@
 ```javascript
 const Maicol = {
   pronouns: "he",
-  code: [Javascript, HTML, CSS, Python, Java],
+  code: [Javascript, HTML, CSS, Python, Java,php],
   tools: [React, Redux, Node, Storybook, Styled-Components],
   architecture: ["microservices", "event-driven", "design system pattern"]
 }
