@@ -14,7 +14,8 @@ const Maicol = {
   pronouns: "he",
   code: [Javascript, HTML, CSS, Python, Java, PHP],
   tools: [React, Redux, Node, Storybook, Styled-Components],
-  architecture: ["microservices", "event-driven", "design system pattern"]
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  emails:{github:'maicolgamer23@hotmail.com',group:'maicol.o@magicmoon.dev'}
 }
 ```
 
