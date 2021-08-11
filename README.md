@@ -24,3 +24,16 @@ const Maicol = {
 ---
 
 ⭐️ From [@IBearSmile](https://github.com/IBearSmile2319)
+
+<details>
+  <summary>GitHub statistics</summary>
+  
+  <a href="https://github.com/IBearSmile2319">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=IBearSmile2319&show_icons=true&theme=dracula&layout=compact" />
+  </a>
+
+  <a href="https://github.com/IBearSmile2319">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBearSmile2319&theme=dracula&layout=compact" />
+  </a>
+
+</details>
