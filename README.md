@@ -10,8 +10,8 @@
 ```javascript
 const Maicol = {
   pronouns: "he",
-  code: [Javascript, HTML, CSS, Python, Java, PHP],
-  tools: [React, Redux, Node, Storybook, Styled-Components],
+  code: [Javascript, HTML5, CSS3, Python, Java, PHP],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Mongoose, Git, linux, ubunto],
   architecture: ["microservices", "event-driven", "design system pattern"],
   emails:{github:'maicolgamer23@hotmail.com',group:'maicol.o@magicmoon.dev'}
 }
