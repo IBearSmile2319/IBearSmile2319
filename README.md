@@ -17,7 +17,7 @@
 </div>
 
 - 📫 How to reach me:
-    - [linkedin](www.linkedin.com/in/maicolov)
+    - [linkedin](https://www.linkedin.com/in/maicolov)
     - [Gmail](mailto:maicol.ov23@gmail.com)
     - [instagram](https://www.instagram.com/maicol.ov23)
 <!--<div align="center">
